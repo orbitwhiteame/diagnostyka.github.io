@@ -1,0 +1,2 @@
+# diagnostyka.github.io
+web
